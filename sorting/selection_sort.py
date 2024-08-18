@@ -38,6 +38,8 @@ class SelectionSort():
             
             self.array[minimum], self.array[outer] = self.array[outer], self.array[minimum]
 
+        self.sorted = True
+        
         return self.array
 
 

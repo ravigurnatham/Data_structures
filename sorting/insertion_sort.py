@@ -1,4 +1,4 @@
-"""This is a module for sorting the array using the Inserion sort"""
+"""This is a module for sorting the array using the Inserion sort. Its classic example of decrease and conquer"""
 from random import randrange
 import unittest
 

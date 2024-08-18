@@ -72,6 +72,7 @@ class MergeSort():
         length = len(self)
         self.divide(start= 0, end = length)
         return self.array
+        self.sorted = True
 
 
 
